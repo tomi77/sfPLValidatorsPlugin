@@ -1,0 +1,21 @@
+{
+    "name": "tomasz-rup/sf-pl-validators-plugin",
+    "type": "symfony1-plugin",
+    "description": "symfony 1.x plugin that adds PL validators",
+    "keywords": ["symfony1", "validator", "regon", "pesel", "polish validator", "pl validator"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomasz Jakub Rup",
+            "email": "tomasz.rup@gmail.com",
+            "role": "Creator"
+        }
+    ],
+    "support": {
+      "issues": "https://github.com/tomi77/sfPLValidatorsPlugin/issues",
+      "source": "https://github.com/tomi77/sfPLValidatorsPlugin"
+    },
+    "require": {
+        "symfony/symfony1": "*"
+    }
+}
